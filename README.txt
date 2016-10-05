@@ -1,0 +1,1 @@
+I am currently taking a course in university on computer vision and signal processing. This repository contains code where I am trying out various aspects of these topics such as convolution, filters, etc.
